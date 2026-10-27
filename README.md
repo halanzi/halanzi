@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 Welcome to my GitHub profile. 
-I am a Chemical Engineer who focuses on experimental and computational molecular and systems biology. I am passionate about leveraging data-driven modeling to solve complex problems in biotechnology.
+I am a chemical engineer focused on experimental and computational molecular and systems biology. I am passionate about leveraging data-driven modeling to solve complex problems in biotechnology.
 
 Current status:
-- 🌱 Learning: functional programming and monads 
-- 🔭 Working on: protein function prediction models
+- 🌱 Learning: evo-devo and theoretical biology
+- 🔭 Working on: organogenesis
 <!-- COMMENT -->
 <!--TO DO: add more details about me later -->
 <!-- **halanzi/halanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
